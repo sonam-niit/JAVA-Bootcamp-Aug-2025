@@ -1,0 +1,23 @@
+class: Template or Blueprint
+	which includes all member variables and member functions (methods)
+
+Object: Instance of class which can access all the methods and variables of class.
+
+Constructor: Helps us to initialize an object of a class
+	     Its name must be same as class name
+	     calls automatically when we create object of a class
+	     we can create more than one constructor with different parameters.
+
+Methods: its including a class functionalities with return type or without returning value (void)
+
+Encapsulation: Hiding variables from direct access, wrap everything in one unit
+		making variables private and generate getters and setters.
+
+Inheritance: To reuse the same code multiple time we can use this.
+		achieve using extends keyword in java
+
+		improve code readability and maintainability
+
+Polymorphism: Many forms
+		static polymorphism (method overloading :: same name different parameters)
+		dynamic polymorphism (method overriding :: same method in child and parent class)
